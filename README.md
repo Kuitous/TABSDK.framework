@@ -60,4 +60,4 @@ YYYYViewController-2（选中状态）
 fanhui     （返回按钮，样式自己选）
 
 ![Image text](https://github.com/Kuitous/TABSDK.framework/blob/master/1.png)
-![Image text](https://github.com/Kuitous/TABSDK.framework/blob/master/2.png)
+![Image text](https://github.com/Kuitous/TABSDK.framework/blob/master/2.png) 
